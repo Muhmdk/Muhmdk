@@ -1,5 +1,5 @@
 # Hello World!, I'm Muhammad Khan, a Software Engineer 👋🏼:
-👨🏼‍💻 Im currently working on my startup Learning Mode AI‼️ Check it out @ https://learningmodeai.com<br>👨🏼‍🎓 4th year Software Enginering student at Toronto Metropolitan University<br>👨🏼‍💻 
+👨🏼‍💻 Im currently working on my startup Learning Mode AI‼️ Check it out @ https://learningmodeai.com<br>👨🏼‍🎓:books: 4th year Software Enginering student at Toronto Metropolitan University<br>👨🏼‍💻 
 
 
 # 💻 Tech Stack:
