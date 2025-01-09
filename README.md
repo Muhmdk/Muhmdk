@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anas Khan and I am currently a 5th year student at University of Toronto pursuing a double degree in Computer Science and CCIT. </h2>
+<h2 align="left">Hi 👋! My name is Muhammad Khan and I am currently a 4th year student at Toronoto Metropolitan University pursuing Copmuter & Software Engineerning. </h2>
 
 <h2 align="left"> Im currently working on my startup Learning Mode AI‼️ Check it out @ https://learningmodeai.com</h2>
 
