@@ -48,7 +48,7 @@
       <img height="200" width="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
     </td>
     <td align="center">
-      <a href="mailto:Muhammadlivee@gmail.com" target="_blank">
+      <a href="mailto:Muhammadlive_@hotmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
       </a>
       <br>
